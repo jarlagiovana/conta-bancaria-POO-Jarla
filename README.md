@@ -8,7 +8,7 @@ Exemplo simples de **Programação Orientada a Objetos (POO)** em Python, com um
 Como executar
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/jarlagiovana/conta-bancaria-poo-jarlagio.git
+   git clone https://github.com/jarlagiovana/conta-bancaria-POO-Jarla.git
 Entre na pasta do projeto.
 
 Execute:
